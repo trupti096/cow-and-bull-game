@@ -2,7 +2,7 @@ import random
 
 print("Welcome To The Cow Bull Game")
 
-a=random.randint(100,999)\
+a=random.randint(100,999)
 
 attempts=5
 
